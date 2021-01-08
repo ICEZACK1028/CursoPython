@@ -1,6 +1,6 @@
 #Acá va un comentario, se ignora el numeral a la derecha
-if 2> 3:
-    print('2 es mayor a 3')
+if 3 > 2:
+    print('3 es mayor a 2')
 
 #if 6> 3:
  #   print('6 es mayor a 3')
