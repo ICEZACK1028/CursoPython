@@ -76,7 +76,7 @@ largoLista2 = len(lista2)
 
 #----------Reverse y sort
 lista.reverse() #El método reverse nos cambia el orden de nuestra lista de último a primero
-lista.sort() #El método sort ordena las listas, pero no se va a poder utilizar cuando los arreglos tienen valores con el mismo tipo de dato
+lista.sort() #El método sort ordena las listas, pero no se va a poder utilizar cuando los arreglos tienen valores con diferentes tipos de datos
 #print(lista)
 
 #----------Tuplas,  a diferencia de las listas, una vez creada ya no nos dejará cambiarlas
